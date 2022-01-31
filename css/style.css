@@ -1,0 +1,27 @@
+.ortala{
+    text-align: center;
+}
+
+.header h1{
+    color: red;
+}
+
+.header a{
+    margin: 10px;
+}
+
+.section h2{
+    color: purple;
+}
+
+.section h3{
+    color: #ddab06;
+}
+
+.section li{
+    list-style-position: inside;
+}
+
+.products span{
+    font-weight: bold;
+}
